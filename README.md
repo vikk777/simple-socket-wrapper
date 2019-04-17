@@ -10,3 +10,5 @@ There are someone clients can connect to server. To disconnect from the server t
 At this moment server can perform one task only - it sends to client information about itself system.
 
 But library Sockets is planned develop.
+
+Files client.cpp and server.cpp are example of using this library.
